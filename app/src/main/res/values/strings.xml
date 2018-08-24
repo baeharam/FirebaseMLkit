@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebasePhotoTag</string>
+    <string name="label">labels</string>
+    <string name="single_label">label</string>
+    <string name="all_images">allImages</string>
+    <string name="label_to_image">labelToImage</string>
+    <string name="label_db">label_db</string>
+</resources>
